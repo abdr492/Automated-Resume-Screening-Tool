@@ -1,0 +1,32 @@
+# Node.js/NPM Dependencies for Automated Resume Screening Tool
+
+# React & UI
+react==19.0.1
+react-dom==19.0.1
+
+# Build Tools
+vite==6.2.3
+typescript==5.8.2
+
+# AI/ML
+@google/genai==1.29.0
+
+# UI Libraries
+tailwindcss==4.1.14
+lucide-react==0.546.0
+recharts==3.8.1
+motion==12.38.0
+
+# Utilities
+dotenv==17.2.3
+clsx==2.1.1
+tailwind-merge==3.5.0
+
+# Backend (if needed)
+express==4.21.2
+
+# Dev Dependencies
+@vitejs/plugin-react==5.0.4
+@tailwindcss/vite==4.1.14
+autoprefixer==10.4.21
+tsx==4.21.0

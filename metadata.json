@@ -1,0 +1,10 @@
+{
+  "name": "Automated Resume Screening Tool",
+  "description": "High-tech AI dashboard for automated resume parsing, candidate scoring, and job matching using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Resume Parsing",
+    "Candidate Ranking",
+    "Skill Gap Analysis"
+  ]
+}
